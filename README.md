@@ -52,6 +52,6 @@ To demonstrate the block quote, I'd like to share a quote from a cool reindeer:
 This is a picture of the reindeer:  
 ![Chopper](Resources/TonyTonyChopper.png) 
 ---
-Finally, [here](https://gustavomorandiaz.github.io/) is a link to my personal website developed using Github pages
+Finally, [here](https://gustavomorandiaz.github.io/) is a link to my personal website developed using GitHub pages
 
 Thank you!
