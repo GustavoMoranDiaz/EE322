@@ -54,4 +54,4 @@ This is a picture of the reindeer:
 ---
 Finally, [here](https://gustavomorandiaz.github.io/) is a link to my personal website developed using GitHub pages
 
-Thank you!
+Thank you for taking a look at my README!
