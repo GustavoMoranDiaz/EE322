@@ -11,7 +11,7 @@ Prints the name of the host (computer)
 ### env
 Prints a list of enviroment variables 
 
-![testing of hostname and env](/Lab2a.png)
+![testing of hostname and env](/Labs/Lab2/Lab2a.png)
 
 ### ps
 "process status" prints the name of all currently running processes (programs and applications)
@@ -19,7 +19,7 @@ Prints a list of enviroment variables
 ### pwd
 "print working directory" prints the name of the current directory
 
-![testing of ps and pwd](/Lab2b.png)
+![testing of ps and pwd](/Labs/Lab2/Lab2b.png)
 
 ### git clone
 a command from the git program. Copies a remote Git repository into the current directory.
@@ -30,9 +30,9 @@ a command from the git program. Copies a remote Git repository into the current 
 ### nano
 opens the specified file (or creates specified file if it does not currently exist) and allows for use of nano, a text editer.
 
-![testing of cd and nano](/Lab2c.png)
+![testing of cd and nano](/Labs/Lab2/Lab2c.png)
 
-![view of nano running](/Lab2d.png)
+![view of nano running](/Labs/Lab2/Lab2d.png)
 
 ### ls 
 
@@ -41,7 +41,7 @@ opens the specified file (or creates specified file if it does not currently exi
 ### df
 Displays available disk space
 
-![](/Lab2e.png)
+![](/Labs/Lab2/Lab2e.png)
 
 
 ### cat
